@@ -1,0 +1,14 @@
+
+.flex{
+  display: flex;
+  margin-left: 200PX;
+}
+.center{
+
+  text-align: 100px;
+  padding-left: 200px;
+}
+
+.mfauto{
+  margin-left: 120px;
+}
